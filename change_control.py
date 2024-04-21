@@ -3,9 +3,9 @@ from tkinter import *
 from tkinter import messagebox
 
 # Trello configuration
-API_KEY = 'your_api_key'
-TOKEN = 'your_token'
-BOARD_ID = 'your_board_id'
+API_KEY = 'api_key'
+TOKEN = 'token'
+BOARD_ID = 'board_id'
 
 def create_trello_card(name, desc):
     """Create a Trello card on a specific board."""
