@@ -16,19 +16,19 @@ To run this application, you will need Python 3 and a few additional modules. He
    ```bash
    git clone https://github.com/yourusername/cad-file-change-control.git
    cd cad-file-change-control
+   
 Install the required Python modules:
-bash
-Copy code
 pip install requests
+
 Configure your Trello API credentials:
 Obtain your API key and token from Trello.
 Replace the API_KEY, TOKEN, and BOARD_ID placeholders in the script with your actual Trello credentials.
 Usage
+
 Once you have installed and configured everything, you can run the program by executing:
 
-bash
-Copy code
 python change_control.py
+
 The GUI will appear, where you can enter the details for the CAD file you wish to manage, including the file name, revision number, and a detailed description of the changes or updates. Once submitted, a corresponding Trello card will be created.
 
 Contributing
@@ -40,8 +40,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 If you have any questions, please open an issue in this repository.
 
-sql
-Copy code
 
 ### Steps to create the README.md file:
 
@@ -49,4 +47,3 @@ Copy code
 2. **Copy and Paste**: Copy the above Markdown content and paste it into the text editor.
 3. **Save the File**: Save the file with the name `README.md` in the root directory of your project.
 
-This file will serve as the main documentation for your GitHub repository, providing all the necessary information to get started with the project.
