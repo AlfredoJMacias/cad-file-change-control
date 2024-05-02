@@ -1,4 +1,6 @@
 # Personal CAD File Change Control System
+# Author: Alfredo Macias
+# Contact: www.linkedin.com/in/alfredo-j-macias-952b55123
 
 ## Introduction
 Welcome to the Personal CAD File Change Control System! This project integrates seamlessly with Trello to provide a sophisticated change control system tailored specifically for managing CAD file revisions. It is ideal for engineers, designers, and project managers who need to maintain an organized record of design changes and version history.
